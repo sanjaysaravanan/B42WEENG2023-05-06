@@ -27,7 +27,7 @@ Joins in SQL:
     RIGHT
     FULL
   
-Download and Install MongoDB: windows download MSI
+Download MongoDB: windows download MSI
   Server:
     https://www.mongodb.com/try/download/community
   Shell:
