@@ -1,0 +1,37 @@
+SQL Review:
+  Simple SELECT Queries
+
+Normalization:
+  Storing different component in different table and relating them together
+  with a foreign key.
+
+  Process of removing repeating data is called normalization.
+
+  Zombie Data:
+    a data/row/entry We assume that this sort of row will not present in table, 
+    but it is actually present
+
+READ
+Joins in SQL:
+  Joins are used to retrieve data from 2 or more related tables. In general
+  tables are related to each other with foreign key constraints
+
+  Use Col_Name like,
+    <table_name>.<col_name>
+    Eg: Student.name, Teacher.name, Teacher.Subject, Student.Mark
+
+  Inner Join:
+  
+  Outer Join:
+    LEFT
+    RIGHT
+    FULL
+  
+Download and Install MongoDB: windows download MSI
+  Server:
+    https://www.mongodb.com/try/download/community
+  Shell:
+    https://www.mongodb.com/try/download/shell
+  Compass:
+    https://www.mongodb.com/try/download/compass
+  
